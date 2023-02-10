@@ -6,7 +6,22 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Assistant/Documents/GitHub/PhuketBike_UE/PhuketBike/Content/StarterContent/Maps/Minimal_Default.umap",
-				"C:/Users/Assistant/Documents/GitHub/PhuketBike_UE/PhuketBike/Content/PhuketBikeContent/BikePawnBP.uasset"
+				"C:/Users/Assistant/Documents/GitHub/PhuketBike_UE/PhuketBike/Content/PhuketBikeContent/BikePawnBP.uasset",
+				"C:/Users/Assistant/Documents/GitHub/PhuketBike_UE/PhuketBike/Content/PhuketBikeContent/NPC/Bikes-03-1.uasset",
+				"C:/Users/Assistant/Documents/GitHub/PhuketBike_UE/PhuketBike/Content/PhuketBikeContent/NPC/Bikes-02-1.uasset",
+				"C:/Users/Assistant/Documents/GitHub/PhuketBike_UE/PhuketBike/Content/PhuketBikeContent/NPC/Bikes-03.uasset",
+				"C:/Users/Assistant/Documents/GitHub/PhuketBike_UE/PhuketBike/Content/PhuketBikeContent/NPC/Bikes-01-1-01.uasset",
+				"C:/Users/Assistant/Documents/GitHub/PhuketBike_UE/PhuketBike/Content/PhuketBikeContent/NPC/Bikes-01.uasset",
+				"C:/Users/Assistant/Documents/GitHub/PhuketBike_UE/PhuketBike/Content/PhuketBikeContent/NPC/Bikes-02.uasset",
+				"C:/Users/Assistant/Documents/GitHub/PhuketBike_UE/PhuketBike/Content/PhuketBikeContent/NPC/Bikes-01-1.uasset",
+				"C:/Users/Assistant/Documents/GitHub/PhuketBike_UE/PhuketBike/Content/PhuketBikeContent/NPC/Bikes-04.uasset",
+				"C:/Users/Assistant/Documents/GitHub/PhuketBike_UE/PhuketBike/Content/PhuketBikeContent/NPC/Bikes-05.uasset",
+				"C:/Users/Assistant/Documents/GitHub/PhuketBike_UE/PhuketBike/Content/PhuketBikeContent/NPC/Bikes-01_Sprite.uasset",
+				"C:/Users/Assistant/Documents/GitHub/PhuketBike_UE/PhuketBike/Content/PhuketBikeContent/NPC/Bikes-02_Sprite.uasset",
+				"C:/Users/Assistant/Documents/GitHub/PhuketBike_UE/PhuketBike/Content/PhuketBikeContent/NPC/Bikes-03_Sprite.uasset",
+				"C:/Users/Assistant/Documents/GitHub/PhuketBike_UE/PhuketBike/Content/PhuketBikeContent/NPC/Bikes-01-1-01_Sprite.uasset",
+				"C:/Users/Assistant/Documents/GitHub/PhuketBike_UE/PhuketBike/Content/PhuketBikeContent/NPC/Bikes-02-1_Sprite.uasset",
+				"C:/Users/Assistant/Documents/GitHub/PhuketBike_UE/PhuketBike/Content/PhuketBikeContent/NPC/Bikes-03-1_Sprite.uasset"
 			]
 		}
 	]
